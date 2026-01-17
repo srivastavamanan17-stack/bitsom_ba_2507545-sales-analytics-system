@@ -1,0 +1,77 @@
+=======================================================
+SALES ANALYTICS REPORT
+Generated: 2026-01-17 13:28:44
+Records Processed: 10
+=======================================================
+
+OVERALL SUMMARY
+-------------------------------------------------------
+Total Revenue: ₹467,024.00
+Total Transactions: 10
+Average Order Value: ₹46,702.40
+Date Range: 2024-12-01 to 2024-12-27
+
+REGION-WISE PERFORMANCE
+-------------------------------------------------------
+Region              Sales     % of Total      Txns
+North     ₹       467,024        100.00%        10
+
+TOP 5 PRODUCTS
+-------------------------------------------------------
+Rank  Product                  Qty        Revenue
+1     Headphones                10₹        50,029
+2     External Hard Drive        9₹        34,218
+3     External Hard Drive1TB       9₹        78,867
+4     Keyboard                   8₹        14,584
+5     KeyboardMechanical         5₹        13,360
+
+TOP 5 CUSTOMERS
+-------------------------------------------------------
+Rank  Customer                 Spent    Orders
+1     C008           ₹       129,476         2
+2     C003           ₹       114,356         1
+3     C010           ₹        78,867         1
+4     C028           ₹        48,359         2
+5     C002           ₹        34,218         1
+
+DAILY SALES TREND
+-------------------------------------------------------
+Date                Revenue      Txns   Customers
+2024-12-26  ₹        34,218         1           1
+2024-12-27  ₹        78,867         1           1
+2024-12-01  ₹       118,656         1           1
+2024-12-25  ₹        16,254         1           1
+2024-12-18  ₹        10,820         1           1
+2024-12-09  ₹        14,584         1           1
+2024-12-17  ₹       114,356         1           1
+2024-12-13  ₹        32,134         1           1
+2024-12-14  ₹        33,775         1           1
+2024-12-22  ₹        13,360         1           1
+
+PRODUCT PERFORMANCE ANALYSIS
+-------------------------------------------------------
+Best Selling Day: 2024-12-01 (₹118,656, 1 transactions)
+Low Performing Products:
+ - External Hard Drive (Qty: 9, Revenue: ₹34,218)
+ - External Hard Drive1TB (Qty: 9, Revenue: ₹78,867)
+ - Laptop (Qty: 2, Revenue: ₹118,656)
+ - Laptop Charger (Qty: 4, Revenue: ₹10,820)
+ - Keyboard (Qty: 8, Revenue: ₹14,584)
+ - LaptopPremium (Qty: 2, Revenue: ₹114,356)
+ - MonitorLED (Qty: 2, Revenue: ₹32,134)
+ - KeyboardMechanical (Qty: 5, Revenue: ₹13,360)
+
+API ENRICHMENT SUMMARY
+-------------------------------------------------------
+Products Enriched: 0
+Success Rate: 0.00%
+Failed Products:
+ - Headphones
+ - Keyboard
+ - MonitorLED
+ - LaptopPremium
+ - KeyboardMechanical
+ - Laptop
+ - External Hard Drive1TB
+ - Laptop Charger
+ - External Hard Drive
